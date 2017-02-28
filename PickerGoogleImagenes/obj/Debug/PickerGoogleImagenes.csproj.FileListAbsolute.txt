@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2012\Projects\PickerGoogleImagenes\PickerGoogleImagenes\bin\PickerGoogleImagenes.dll
+c:\users\pc\documents\visual studio 2012\Projects\PickerGoogleImagenes\PickerGoogleImagenes\bin\PickerGoogleImagenes.pdb
+c:\users\pc\documents\visual studio 2012\Projects\PickerGoogleImagenes\PickerGoogleImagenes\obj\Debug\PickerGoogleImagenes.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\PickerGoogleImagenes\PickerGoogleImagenes\obj\Debug\PickerGoogleImagenes.dll
+c:\users\pc\documents\visual studio 2012\Projects\PickerGoogleImagenes\PickerGoogleImagenes\obj\Debug\PickerGoogleImagenes.pdb
